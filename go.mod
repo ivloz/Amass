@@ -1,4 +1,4 @@
-module github.com/ivloz/Amass/v3
+module github.com/ivloz/Amass
 
 go 1.16
 
